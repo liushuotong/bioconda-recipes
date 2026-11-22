@@ -45,6 +45,7 @@ requirements:
     - trimal
     - iqtree >=2
     - orthofinder
+    - brotli-python
     - mcscanx
     - wgdi
     - agat
